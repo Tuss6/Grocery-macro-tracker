@@ -1,0 +1,9 @@
+[core]
+	repositoryformatversion = 0
+	filemode = true
+	bare = true
+[remote "origin"]
+	url = https://github.com/Tuss6/Grocery-macro-tracker
+	tagOpt = --no-tags
+	fetch = +refs/*:refs/*
+	mirror = true
